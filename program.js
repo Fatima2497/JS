@@ -83,3 +83,8 @@ function sum(a, b) {
   }
 
 console.log(sum([2,4,9,8]))
+
+let fname = "arfa"
+let lname = "fatima"
+
+console.log(fname + lname);
